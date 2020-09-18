@@ -309,13 +309,21 @@ PrefabInstance:
       propertyPath: leftAndRightEdge
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -5207230513721395171, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
+      propertyPath: chanceToChangeDirections
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -5207230513721395171, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 3983476046065197962, guid: 0026491bc71f80f46bdc40e7e79c6a58, type: 3}
     - target: {fileID: 4007660106772744745, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4007660106772744745, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 4007660106772744745, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -356,6 +364,10 @@ PrefabInstance:
     - target: {fileID: 4007660106772744746, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
       propertyPath: m_UseGravity
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007660106772744746, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4007660106772744747, guid: b9ba86947750781418f047e57e3f91bb, type: 3}
       propertyPath: m_Name
